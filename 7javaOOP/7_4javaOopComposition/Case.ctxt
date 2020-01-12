@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Case
+comment1.params=model\ manufactuer\ powerSupply\ dimensions
+comment1.target=Case(java.lang.String,\ java.lang.String,\ java.lang.String,\ Dimensions)
+comment2.params=
+comment2.target=void\ pressPowerButton()
+comment3.params=
+comment3.target=java.lang.String\ getModel()
+comment4.params=
+comment4.target=java.lang.String\ manufacturer()
+comment5.params=
+comment5.target=java.lang.String\ getPowerSupply()
+comment6.params=
+comment6.target=Dimensions\ getDimensions()
+numComments=7

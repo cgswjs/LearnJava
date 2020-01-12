@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PC
+comment1.params=theCase\ monitor\ motherboard
+comment1.target=PC(Case,\ Monitor,\ Motherboard)
+comment2.params=
+comment2.target=Case\ getTheCase()
+comment3.params=
+comment3.target=Monitor\ getMonitor()
+comment4.params=
+comment4.target=Motherboard\ getMotherboard()
+numComments=5

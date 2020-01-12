@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Resolution
+comment1.params=width\ height
+comment1.target=Resolution(int,\ int)
+comment2.params=
+comment2.target=int\ getWidth()
+comment3.params=
+comment3.target=int\ getHeight()
+numComments=4
