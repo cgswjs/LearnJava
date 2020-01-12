@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=linkedList
+comment2.target=void\ printList(java.util.LinkedList)
+comment3.params=linkedList\ newCity
+comment3.target=boolean\ addInOrder(java.util.LinkedList,\ java.lang.String)
+comment4.params=cities
+comment4.target=void\ visit(java.util.LinkedList)
+comment5.params=
+comment5.target=void\ printMenu()
+numComments=6
