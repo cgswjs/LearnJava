@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=damage
+comment1.target=void\ loseHealth(int)
+comment2.params=
+comment2.target=int\ healthRemaining()
+numComments=3

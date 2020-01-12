@@ -1,0 +1,26 @@
+//Example of encapsulation
+public class Main{
+    //no encapsulation way, not a good way to code
+    // public static void main(String[] args){
+        // Player player = new Player();
+        // player.fullName = "Yihan";
+        // player.health = 20;
+        // player.weapon = "Sword";
+        
+        // int damage = 10;
+        // player.loseHealth(damage);
+        // System.out.println("Remaining health = "+player.healthRemaining());
+    // }
+    
+    //encapsulation coding using private variables and constructor is the right way
+    public static void main(String[] args){
+        EnhancedPlayer player = new EnhancedPlayer("Yihan",50,"Sword");
+        System.out.println("Initial health is "+ player.getHealth());
+        int damage = 10;
+        player.loseHealth(damage);
+        System.out.println("Your took "+10+" damage");
+        System.out.println("Your current health is "+player.getHealth());
+    
+    }
+    
+}

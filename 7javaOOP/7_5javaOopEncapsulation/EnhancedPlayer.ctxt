@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EnhancedPlayer
+comment1.params=name\ health\ weapon
+comment1.target=EnhancedPlayer(java.lang.String,\ int,\ java.lang.String)
+comment2.params=damage
+comment2.target=void\ loseHealth(int)
+comment3.params=
+comment3.target=int\ getHealth()
+numComments=4
