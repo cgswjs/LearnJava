@@ -8,15 +8,16 @@ public class PC{
         this.monitor = monitor;
         this.motherboard = motherboard;
     }
-    public Case getTheCase(){
-        return theCase;
+    public void powerUp(){
+        theCase.pressPowerButton();
+        drawLogo();
+        motherboard.loadProgram("Windows 10");
+        
     }
-    public Monitor getMonitor(){
-        return monitor;
+    private void drawLogo(){
+        monitor.drawPixelAt(1200,50,"yellow");
     }
-    public Motherboard getMotherboard(){
-        return motherboard;
-    }
+   
     
     
     
