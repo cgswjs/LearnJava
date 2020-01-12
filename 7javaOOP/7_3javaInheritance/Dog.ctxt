@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Dog
+comment0.text=use\ extends\ to\ inherit\ from\ another\ class
+comment1.params=name\ size\ weight\ eyes\ legs\ tail\ teeth\ coat
+comment1.target=Dog(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ chew()
+comment3.params=
+comment3.target=void\ eat()
+comment4.params=
+comment4.target=void\ walk()
+comment5.params=
+comment5.target=void\ run()
+comment6.params=speed
+comment6.target=void\ move(int)
+numComments=7

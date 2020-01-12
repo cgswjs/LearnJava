@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=playerName\ score
+comment2.target=int\ calculateScore(java.lang.String,\ int)
+comment3.params=score
+comment3.target=int\ calculateScore(int)
+numComments=4

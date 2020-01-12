@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Score
+comment1.params=gameOver\ score\ levelCompleted\ bonus
+comment1.target=int\ calculateScore(boolean,\ int,\ int,\ int)
+numComments=2
