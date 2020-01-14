@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ITelephone
+comment1.params=
+comment1.target=void\ powerOn()
+comment2.params=phoneNumber
+comment2.target=void\ dial(int)
+comment3.params=
+comment3.target=void\ answer()
+comment4.params=phoneNumber
+comment4.target=boolean\ callPhone(int)
+comment5.params=
+comment5.target=boolean\ isRinging()
+numComments=6

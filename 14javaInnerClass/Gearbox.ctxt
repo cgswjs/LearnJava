@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Gearbox
+comment1.params=maxGears
+comment1.target=Gearbox(int)
+comment2.params=in
+comment2.target=void\ operateClutch(boolean)
+comment3.params=number\ ratio
+comment3.target=void\ addGear(int,\ double)
+comment4.params=newGear
+comment4.target=void\ changeGear(int)
+comment5.params=revs
+comment5.target=double\ wheelSpeed(int)
+numComments=6
