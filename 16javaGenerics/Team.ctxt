@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Team
+comment1.params=name
+comment1.target=Team(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=player
+comment3.target=boolean\ addPlayer(Player)
+comment4.params=
+comment4.target=int\ numPlayers()
+comment5.params=opponent\ ourScore\ theirScore
+comment5.target=void\ matchResult(Team,\ int,\ int)
+comment6.params=
+comment6.target=int\ ranking()
+comment7.params=team
+comment7.target=int\ compareTo(Team)
+numComments=8
