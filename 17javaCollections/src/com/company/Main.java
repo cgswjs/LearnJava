@@ -1,15 +1,54 @@
 package com.company;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Collections;
 
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        Theatre theatre = new Theatre("Olympian",8, 12);
-//        theatre.getSeats();
-        if(theatre.reserveSeat("A02")){
-            System.out.println("Please pay");
-        }else{
-            System.out.print("Sorry seat is already taken");
+        // write your code here
+        Theatre theatre = new Theatre("Olympian", 8, 12);
+        List<Theatre.Seat> seatCopy = new ArrayList<>(theatre.seats);
+        printList(seatCopy);
+
+        seatCopy.get(1).reserve();
+        if (theatre.reserveSeat("A02")) {
+            System.out.println("Please pay for A02");
+        } else {
+            System.out.println("Seat already reserved");
+        }
+
+        Collections.shuffle(seatCopy);
+        System.out.println("Print seatCopy");
+        printList(seatCopy);
+        System.out.println("Printing theatre.seat");
+        printList(theatre.seats);
+
+        //sort using collection
+        sortList(seatCopy);
+        System.out.println("Printing sorted seatCopy");
+        printList(seatCopy);
+
+        
+
+    }
+
+    public static void printList(List<Theatre.Seat> list){
+        for(Theatre.Seat seat : list){
+            System.out.println(" "+seat.getSeatNumber());
+        }
+        System.out.println();
+        System.out.println("========================================");
+
+    }
+
+    public static void sortList(List<? extends Theatre.Seat> list){
+        for(int i=0;i<list.size()-1;i++){
+            for(int j=i+1;j<list.size();j++){
+                if(list.get(i).compareTo(list.get(j))>0){
+                    Collections.swap(list,i,j);
+                }
+            }
         }
     }
 }
