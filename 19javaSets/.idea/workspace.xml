@@ -26,6 +26,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../19-1javaSetsSymmetry" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -67,21 +69,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="182" key="GridCell.Tab.0.bottom" timestamp="1579161759238">
+    <state x="2685" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1579227105481">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579161759238" />
-    <state width="1877" height="182" key="GridCell.Tab.0.center" timestamp="1579161759238">
+    <state x="2685" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579227105481" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1579235538997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579235538997" />
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom" timestamp="1579227525497">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="182" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579161759238" />
-    <state width="1877" height="182" key="GridCell.Tab.0.left" timestamp="1579161759238">
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579227525497" />
+    <state width="1877" height="232" key="GridCell.Tab.0.center" timestamp="1579227525497">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="182" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579161759238" />
-    <state width="1877" height="182" key="GridCell.Tab.0.right" timestamp="1579161759238">
+    <state width="1877" height="232" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579227525497" />
+    <state width="1877" height="232" key="GridCell.Tab.0.left" timestamp="1579227525497">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="182" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579161759238" />
+    <state width="1877" height="232" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579227525497" />
+    <state width="1877" height="232" key="GridCell.Tab.0.right" timestamp="1579227525497">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579227525497" />
+    <state x="2381" y="161" key="SettingsEditor" timestamp="1579226892169">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="161" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579226892169" />
   </component>
 </project>
